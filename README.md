@@ -13,3 +13,7 @@ Dane zostały podzielone na 5 raportów:
 * [Happinnes report 2018](https://github.com/ArminD93/WorldHappinessReport/blob/dev_Report2018/WorldHappinessReport_2018.ipynb)
 
 * [Happinnes report 2019](https://github.com/ArminD93/WorldHappinessReport/blob/dev_Report2019/WorldHappinessReport_2019.ipynb)
+
+Podsumowanie analizy:
+
+[Podsumowanie](https://github.com/ArminD93/WorldHappinessReport/blob/dev/WorldHappinessReport_podsumowanie.ipynb)
