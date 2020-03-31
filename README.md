@@ -16,4 +16,4 @@ Dane zostały podzielone na 5 raportów:
 
 Podsumowanie analizy:
 
-[**Podsumowanie**](https://github.com/ArminD93/WorldHappinessReport/blob/dev/WorldHappinessReport_podsumowanie.ipynb)
+##[**Podsumowanie**](https://github.com/ArminD93/WorldHappinessReport/blob/dev/WorldHappinessReport_podsumowanie.ipynb)
